@@ -1,1 +1,2 @@
 # dhq
+# learnig some code
